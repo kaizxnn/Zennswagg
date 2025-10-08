@@ -4,22 +4,22 @@ I'm **Renz Alfredo Gabun**, a passionate developer who loves building innovative
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=&perline=8)](https://skillicons.dev)
+html,androidstudio,pycharm
 
 ## Top Projects
 
-[![Zennswagg](https://github-readme-stats.vercel.app/api/pin/?username=Zennswagg&repo=Zennswagg&theme=dark)](https://github.com/Zennswagg/Zennswagg)
-[![wew123](https://github-readme-stats.vercel.app/api/pin/?username=Zennswagg&repo=wew123&theme=dark)](https://github.com/Zennswagg/wew123)
-[![icecream](https://github-readme-stats.vercel.app/api/pin/?username=Zennswagg&repo=icecream&theme=dark)](https://github.com/Zennswagg/icecream)
-[![CHERI-CROFFLE](https://github-readme-stats.vercel.app/api/pin/?username=Zennswagg&repo=CHERI-CROFFLE&theme=dark)](https://github.com/Zennswagg/CHERI-CROFFLE)
-[![me](https://github-readme-stats.vercel.app/api/pin/?username=Zennswagg&repo=me&theme=dark)](https://github.com/Zennswagg/me)
+- [Zennswagg](https://github.com/Zennswagg/Zennswagg): A personal project showcasing my skills. **Stars:** 0, **Language:** Not specified, **Forks:** 0, **Issues:** 0
+- [wew123](https://github.com/Zennswagg/wew123): A fun experimental project. **Stars:** 0, **Language:** Not specified, **Forks:** 0, **Issues:** 0
+- [icecream](https://github.com/Zennswagg/icecream): A Java project demonstrating my programming capabilities. **Stars:** 0, **Language:** Java, **Forks:** 0, **Issues:** 0
+- [CHERI-CROFFLE](https://github.com/Zennswagg/CHERI-CROFFLE): A CSS-based project showcasing modern web design. **Stars:** 0, **Language:** CSS, **Forks:** 0, **Issues:** 0
+- [me](https://github.com/Zennswagg/me): A personal page project. **Stars:** 0, **Language:** HTML, **Forks:** 0, **Issues:** 0
 
 ## GitHub Stats
+
 🔹 **Public Repositories:** 8  
 🔹 **Followers:** 5  
 🔹 **Following:** 4  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zennswagg&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zennswagg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
